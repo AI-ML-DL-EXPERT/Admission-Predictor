@@ -3,7 +3,9 @@ This project aims to predict admission outcomes using deep learning techniques. 
 
 **Key Features:**
 Deep Learning Model: Utilizes a neural network architecture to learn from the input data and make accurate predictions.
+
 Data Preprocessing: Includes data cleaning, normalization, and feature engineering to prepare the input data for the deep learning model.
+
 Model Evaluation: Provides detailed evaluation metrics such as accuracy, precision, recall, and F1 score to assess the performance of the admission predictor.
 
 **Dependencies:**
